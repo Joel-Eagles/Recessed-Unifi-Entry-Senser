@@ -11,8 +11,8 @@
 <br>
 <br>
 
-- Next, trim the small plastic bumps along the Battery holder on the main body
-	- use a pair of flush cutters to cut off the bumps
+- Next, trim the small plastic bumps along the Battery holder on the main body.
+	- use a pair of flush cutters to cut off the bumps.
 
 <p>
 	<img src="./Assets/PXL_20260328_175633335.jpg" width="30%"/>
@@ -20,8 +20,8 @@
 	<img src="./Assets/PXL_20260328_175917208.jpg" width="30%"/>
 </p>
 
-- Insert your sensor main body into the 3d printed case
-	- Make sure to align the 2 parallel slots with the plastic clips on the bottom of the main body
+- Insert your sensor main body into the 3d printed case.
+	- Make sure to align the 2 parallel slots with the plastic clips on the bottom of the main body.
 
 <p>
 	<img src="./Assets/PXL_20260328_180004243.jpg" width="30%"/>
@@ -33,8 +33,15 @@
 	- The two alignment marks should line up once fully seated.
 
 <p>
+	<img src="./Assets/PXL_20260328_180142612.gif" width="30%"/>
 	<img src="./Assets/PXL_20260328_180141060.jpg" width="30%"/>
-	<img src="./Assets/PXL_20260328_180103992.jpg" width="30%"/>
 </p>
    
+- Flip the case and push the battery into the hole, fully seat.
 - Place the negative battery contact into the rear twist-cap.
+	- the contact plate has cutouts on the bottom edge and holes above the spring contact. The rear twist cap has matching features to help align it properly
+ 	- you will have wanted to keep the adhesive on the back of the contact plate.
+- Align the battery contact connector pin with the corresponding notch in the main case.
+- Align the nubs in the cap with the slots in the main case, then push the cap down and twist clockwise to lock it in place.
+	- If the metal connector pin on the battery contact binds or snags while pressing or twisting the cap into place, you may need to gently bend the pin outward so that it presses lightly against the wall of the main shell
+- you should see the power LED on the face turn on within 5 seconds
