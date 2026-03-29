@@ -9,4 +9,6 @@ A redesigned case for the Ubiquiti SuperLink Entry Sensor
 <br>
 [Click here for pre-sliced printable GCode](https://github.com/Joel-Eagles/Recessed-Unifi-Entry-Senser/blob/main/Printable%20STLs/AllParts.gcode.3mf)
 <br>
-[Click here to download printable STLs](https://github.com/Joel-Eagles/Recessed-Unifi-Entry-Senser/tree/main/Printable%20STLs/Individual%20Models)
+[Click here to download printable STLs](https://github.com/Joel-Eagles/Recessed-Unifi-Entry-Senser/releases/latest/download/allparts.zip)
+<br>
+[Click here to view the printable files]()
