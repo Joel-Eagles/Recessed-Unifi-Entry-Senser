@@ -92,14 +92,6 @@
 </p>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <img Align="right" src="./Assets/PXL_20260329_191118369.jpg" width="30%"/>
 
@@ -122,12 +114,9 @@
 <br>
 <br>
 <br>
-<br>
 
 <img Align="right" src="./Assets/PXL_20260329_191342299.jpg" width="30%"/>
 
-<br>
-<br>
 <br>
 <br>
 <br>
