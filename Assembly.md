@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- Start by disassembling the sensor. I have an IFixit guide that details this process. Follow the guide up to step 5: [https://www.ifixit.com/Guide/Ubiquiti+Unifi+Entry+Sensor+%7C+USL-Entry/211997](<https://www.ifixit.com/Guide/Ubiquiti+Unifi+Entry+Sensor+%7C+USL-Entry/211997>)
+- Start by disassembling the sensor. I have an [IFixit guide](<https://www.ifixit.com/Guide/Ubiquiti+Unifi+Entry+Sensor+%7C+USL-Entry/211997>) that details this process. Follow the guide up to step 5.
   
 <br>
 <br>
@@ -78,3 +78,8 @@
 	<img src="./Assets/PXL_20260328_165605183.jpg" width="30%"/>
 	<img src="./Assets/PXL_20260329_013704547.gif" width="30%"/>
 </p>
+
+<div align="right">
+	
+  [Click here for instalation guide](https://github.com/Joel-Eagles/Recessed-Unifi-Entry-Senser/blob/main/Installation.md)
+</div>
