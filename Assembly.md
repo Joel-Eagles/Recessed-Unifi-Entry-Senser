@@ -45,3 +45,12 @@
 - Align the nubs in the cap with the slots in the main case, then push the cap down and twist clockwise to lock it in place.
 	- If the metal connector pin on the battery contact binds or snags while pressing or twisting the cap into place, you may need to gently bend the pin outward so that it presses lightly against the wall of the main shell
 - you should see the power LED on the face turn on within 5 seconds
+
+<p>
+	<img src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260328_180327520.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260328_174757136.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260328_180420472.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260328_180450132.gif" width="30%"/>
+	
+</p>
