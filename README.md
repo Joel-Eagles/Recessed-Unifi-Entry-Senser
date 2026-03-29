@@ -1,5 +1,5 @@
 # Recessed-Unifi-Entry-Senser
-A redesigned case for the Ubiquiti SuperLink Entry Sensor. made to recess the sensor and magnet into the door and frame.
+A redesigned case for the Ubiquiti SuperLink Entry Sensor. Made to recess the sensor and magnet into the door and frame.
 
 [Click here for IFixit disassembly guide](https://www.ifixit.com/Guide/Ubiquiti+Unifi+Entry+Sensor+%7C+USL-Entry/211997) (Backup is [here](https://github.com/Joel-Eagles/Recessed-Unifi-Entry-Senser/blob/main/DisassemblyGuideBackup.pdf) if unavailable)
 <br>
@@ -20,4 +20,6 @@ A redesigned case for the Ubiquiti SuperLink Entry Sensor. made to recess the se
 
 <p>
 	<img src="./Assets/PXL_20260329_18053381221.gif" width="30%"/>
+	<img src="./Assets/PXL_20260329_201559109.jpg" width="32%"/>
+	<img src="./Assets/PXL_20260329_201453837.jpg" width="32%"/>
 </p>
