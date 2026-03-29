@@ -1,4 +1,4 @@
-<img Align="right" src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
+
 
 [Click here to go home](https://github.com/Joel-Eagles/Recessed-Unifi-Entry-Senser/tree/main)
 
@@ -13,14 +13,11 @@
 - Mark the center point of the 3 circles with a pencil
   - Measure and note the distance from the edge of the door to the center mark. this will be used to position the magnet later. 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p>
+	<img src="./Assets/PXL_20260328_175633335.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260328_175706172.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260328_175917208.jpg" width="30%"/>
+</p>
 <br>
 
 <img Align="right" src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
