@@ -41,15 +41,19 @@
 - Place the negative battery contact into the rear twist-cap.
 	- the contact plate has cutouts on the bottom edge and holes above the spring contact. The rear twist cap has matching features to help align it properly
  	- you will have wanted to keep the adhesive on the back of the contact plate.
+ 
+<p>
+	<img src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260328_180327520.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260328_180348936.jpg" width="30%"/>
+</p>
+	
 - Align the battery contact connector pin with the corresponding notch in the main case.
 - Align the nubs in the cap with the slots in the main case, then push the cap down and twist clockwise to lock it in place.
 	- If the metal connector pin on the battery contact binds or snags while pressing or twisting the cap into place, you may need to gently bend the pin outward so that it presses lightly against the wall of the main shell
 - you should see the power LED on the face turn on within 5 seconds
 
 <p>
-	<img src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
-	<img src="./Assets/PXL_20260328_180327520.jpg" width="30%"/>
-	<img src="./Assets/PXL_20260328_180348936.jpg" width="30%"/>
 	<img src="./Assets/PXL_20260328_180420472.jpg" width="30%"/>
 	<img src="./Assets/PXL_20260328_180450132.gif" width="30%"/>
 </p>
@@ -60,7 +64,7 @@
 
  - Now move on to the magnet.
  - Remove the back cover using the included tool.
- 	- I attempted to remove the magnet from its case, but was unsucsessful. soaking in alcahol and heating with rework station did not loosen the adhesive at all.
+ 	- I attempted to remove the magnet from its case, but was unsuccessful. soaking in alcohol and heating with a rework station did not loosen the adhesive at all.
 
    <p>
 	<img src="./Assets/PXL_20260328_181854003.jpg" width="30%"/>
