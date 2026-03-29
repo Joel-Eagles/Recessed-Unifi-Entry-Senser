@@ -1,6 +1,9 @@
 <img Align="right" src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
 
-<br>
+[Click here to go home](https://github.com/Joel-Eagles/Recessed-Unifi-Entry-Senser/tree/main)
+
+[Click here for assembly guide](https://github.com/Joel-Eagles/Recessed-Unifi-Entry-Senser/blob/main/Assembly.md)
+
 <br>
 <br>
 
