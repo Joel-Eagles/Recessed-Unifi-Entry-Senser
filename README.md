@@ -1,7 +1,7 @@
 # Recessed-Unifi-Entry-Senser
 A redesigned case for the Ubiquiti SuperLink Entry Sensor
 
-[Click here for IFixit disassembly guide](https://www.ifixit.com/Guide/Ubiquiti+Unifi+Entry+Sensor+%7C+USL-Entry/211997)
+[Click here for IFixit disassembly guide](https://www.ifixit.com/Guide/Ubiquiti+Unifi+Entry+Sensor+%7C+USL-Entry/211997) (Backup is [here](https://github.com/Joel-Eagles/Recessed-Unifi-Entry-Senser/blob/main/DisassemblyGuideBackup.pdf) if unavailable)
 <br>
 [Click here for the assembly guide](https://github.com/Joel-Eagles/Recessed-Unifi-Entry-Senser/blob/main/Assembly.md)
 <br>
