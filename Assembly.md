@@ -52,5 +52,24 @@
 	<img src="./Assets/PXL_20260328_180348936.jpg" width="30%"/>
 	<img src="./Assets/PXL_20260328_180420472.jpg" width="30%"/>
 	<img src="./Assets/PXL_20260328_180450132.gif" width="30%"/>
-	
+</p>
+
+<br>
+<br>
+<br>
+
+ - Now move on to the magnet.
+ - Remove the back cover using the included tool.
+ 	- I attempted to remove the magnet from its case, but was unsucsessful. soaking in alcahol and heating with rework station did not loosen the adhesive at all.
+
+   <p>
+	<img src="./Assets/PXL_20260328_181854003.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260328_165442566.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260328_165456358.jpg" width="30%"/>
+</p>
+
+ - Press the magnet with its case into the new shell
+
+<p>
+	<img src="./Assets/PXL_20260328_165605183.jpg" width="30%"/>
 </p>
