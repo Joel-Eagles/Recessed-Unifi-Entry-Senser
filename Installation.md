@@ -14,59 +14,32 @@
   - Measure and note the distance from the edge of the door to the center mark. this will be used to position the magnet later. 
 
 <p>
-	<img src="./Assets/PXL_20260328_175633335.jpg" width="30%"/>
-	<img src="./Assets/PXL_20260328_175706172.jpg" width="30%"/>
-	<img src="./Assets/PXL_20260328_175917208.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260329_184548547.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260329_184700119.jpg" width="30%"/>
 </p>
-<br>
 
-<img Align="right" src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
-
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 - With a 5/8" forstner bit, drill on the two outside marks, leaving the 1 in the middle
   - These only need drilled enough to recess the cap into the door, only .05" or about 3/64
   - If you don't mind the look, and your door gap has room for it, you dont have to recesss the cap, and you can skip this step
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p>
+	<img src="./Assets/PXL_20260329_184825152.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260329_184956198.jpg" width="30%"/>
+</p>
 
-<img Align="right" src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
-
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 - With a 1" forstner bit, dill out the center mark.
   - mark the depth you need to drill by lining up the sensor case with your drill bit and mark the end with a tape flag (add a small amount extra for safety).
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p>
+	<img src="./Assets/PXL_20260329_185333454.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260329_185506802.jpg" width="30%"/>
+</p>
 
-<img Align="right" src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
-
+<img Align="right" src="./Assets/PXL_20260329_190028674.jpg" width="30%"/>
 <br>
 <br>
 <br>
@@ -87,8 +60,9 @@
 <br>
 <br>
 
-<img Align="right" src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
 
+
+<img Align="right" src="./Assets/PXL_20260329_190353940.jpg" width="30%"/>
 <br>
 <br>
 <br>
@@ -109,18 +83,14 @@
 <br>
 <br>
 
-<img Align="right" src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 - Align the center hole of the "Magnet" template with the intersecting lines you just marked on the top of the door casing.
 - mark the 2 outer circle centers
 
+  <p>
+	<img src="./Assets/PXL_20260329_190353940.jpg" width="30%"/>
+	<img src="./Assets/PXL_20260329_191001332.jpg" width="30%"/>
+</p>
+
 <br>
 <br>
 <br>
@@ -131,7 +101,7 @@
 <br>
 <br>
 
-<img Align="right" src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
+<img Align="right" src="./Assets/PXL_20260329_191118369.jpg" width="30%"/>
 
 <br>
 <br>
@@ -154,7 +124,7 @@
 <br>
 <br>
 
-<img Align="right" src="./Assets/PXL_20260328_180236359.jpg" width="30%"/>
+<img Align="right" src="./Assets/PXL_20260329_191342299.jpg" width="30%"/>
 
 <br>
 <br>
