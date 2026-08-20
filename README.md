@@ -1,7 +1,7 @@
 # Recessed-Unifi-Entry-Senser
 A redesigned case for the Ubiquiti SuperLink Entry Sensor. Made to recess the sensor and magnet into the door and frame.
 
-Update: Looks like Ubiquiti saw this and got some ideas. [Click Here](https://store.ui.com/us/en/products/usl-entry-r?variant=usl-entry-r-us) to buy the official version
+Update: Looks like Ubiquiti saw this and got some ideas. [Click Here](https://store.ui.com/us/en/products/usl-entry-r) to buy the official version
 
 [Click here for IFixit disassembly guide](https://www.ifixit.com/Guide/Ubiquiti+Unifi+Entry+Sensor+%7C+USL-Entry/211997) (Backup is [here](https://github.com/Joel-Eagles/Recessed-Unifi-Entry-Senser/blob/main/DisassemblyGuideBackup.pdf) if unavailable)
 <br>
